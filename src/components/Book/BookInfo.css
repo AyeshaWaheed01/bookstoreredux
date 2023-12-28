@@ -1,0 +1,14 @@
+
+.book-info-title {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  .book-info-alert {
+    padding: 1rem;
+    background-color: #f8d7da; /* Custom background color */
+    border: 1px solid #f5c6cb; /* Custom border color */
+    border-radius: 0.25rem;
+    color: #721c24; /* Custom text color */
+  }
+  
